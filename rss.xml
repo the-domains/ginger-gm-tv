@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Ginger GM TV]]></title>
         <description><![CDATA[Ginger GM TV]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ginger-gm-tv/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Dec 2015 22:16:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 23 Dec 2015 22:16:37 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ginger-gm-tv/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Welcome]]></title>
+            <description><![CDATA[<article><h1>Welcome</h1><p>Welcome to Ginger GM TV!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/13af31e5c0cff3cfe951c01a24de5b00e414fe8a.jpg"></article>]]></description>
+            <link>https://thegrid.ai/ginger-gm-tv/welcome/index.html</link>
+            <guid isPermaLink="false">c332e826-04b8-4a0c-ab68-85e155b0ba66</guid>
+            <pubDate>Wed, 23 Dec 2015 22:16:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[GM Analysis #9: Williams vs Dragun: Sicilian Wing Gambit 2 b4!?]]></title>
             <description><![CDATA[<article><h1>GM Analysis #9: Williams vs Dragun: Sicilian Wing Gambit 2 b4!?</h1><p>In this video I take a look at a game I played against the young Polish Grandmaster Kamil Dragun. I played the super aggressive Sicilian Wing Gambit, with 2 b4!? and got a very promising position. It was certainly fun, but did I win? * Facebook - https://www.facebook.com/pages/Ginger...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7c30af8cc71d34a40080228b9e0563475641f2f4.jpg"></article>]]></description>
