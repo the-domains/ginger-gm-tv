@@ -4,7 +4,7 @@
         <description><![CDATA[Chess Videos from Grandmaster Simon Williams]]></description>
         <link>https://thegrid.ai/ginger-gm-tv/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Dec 2015 22:37:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Dec 2015 22:38:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ginger-gm-tv/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/ginger-gm-tv/welcome/index.html</link>
             <guid isPermaLink="false">c332e826-04b8-4a0c-ab68-85e155b0ba66</guid>
             <pubDate>Wed, 23 Dec 2015 22:16:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The latest Tweets from Simon Williams (@ginger_gm). Chess Grandmaster, living in England</p>]]></description>
+            <link>https://twitter.com/ginger_gm</link>
+            <guid isPermaLink="false">d10b5f97-ee5f-4b29-acda-109d3dad1d41</guid>
+            <pubDate>Wed, 23 Dec 2015 22:38:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[LIVE GM Speed Chess! #59 Williams vs Nakamura (He is a bit good isn't he?)]]></title>
