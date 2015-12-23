@@ -4,7 +4,7 @@
         <description><![CDATA[Chess Videos from Grandmaster Simon Williams]]></description>
         <link>https://thegrid.ai/ginger-gm-tv/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Dec 2015 22:38:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Dec 2015 22:40:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ginger-gm-tv/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/ginger-gm-tv/welcome/index.html</link>
             <guid isPermaLink="false">c332e826-04b8-4a0c-ab68-85e155b0ba66</guid>
             <pubDate>Wed, 23 Dec 2015 22:16:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ginger GM | Shop | Chess with Úna O Boyle]]></title>
+            <description><![CDATA[<article><h1>Ginger GM | Shop | Chess with Úna O Boyle</h1><p>Ginger GM - Chess Grandmaster Simon Williams.</p><img src="http://www.gingergm.com/perch/resources/img3464-w360h360.jpg"></article>]]></description>
+            <link>http://www.gingergm.com/shop/chess</link>
+            <guid isPermaLink="false">36acee94-a7a7-4899-9e2b-e3e6b1c289c9</guid>
+            <pubDate>Wed, 23 Dec 2015 22:40:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
