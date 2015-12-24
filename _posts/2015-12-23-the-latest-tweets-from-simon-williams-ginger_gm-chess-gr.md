@@ -1,4 +1,24 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://twitter.com/ginger_gm'
+inLanguage: en
+starred: false
+keywords:
+  - chess
+  - ginger_gm
+  - komodo
+  - http
+  - youtu
+  - chesscom
+  - playlist
+  - chesstv
+  - youtube
+  - tweet
+description: 'The latest Tweets from Simon Williams (@ginger_gm). Chess Grandmaster, living in England'
+datePublished: '2015-12-24T00:18:09.329Z'
+dateModified: '2015-12-24T00:17:50.322Z'
 author:
   - avatar:
       src: 'https://pbs.twimg.com/profile_images/1117109884/simon-orange_400x400.jpg'
@@ -12,34 +32,16 @@ author:
           - 160
           - 62
 related: []
-publisher:
-  url: 'https://twitter.com'
-  name: Twitter
-  favicon: 'https://abs.twimg.com/favicons/favicon.ico'
-  domain: twitter.com
-keywords:
-  - chess
-  - ginger_gm
-  - komodo
-  - http
-  - youtu
-  - chesscom
-  - playlist
-  - chesstv
-  - youtube
-  - tweet
-description: 'The latest Tweets from Simon Williams (@ginger_gm). Chess Grandmaster, living in England'
-inLanguage: en
 app_links: []
-isBasedOnUrl: 'https://twitter.com/ginger_gm'
-datePublished: '2015-12-23T22:38:02.374Z'
-dateModified: '2015-12-23T22:32:16.607Z'
-title: ''
+title: Twitter
 sourcePath: _posts/2015-12-23-the-latest-tweets-from-simon-williams-ginger_gm-chess-gr.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Twitter
+  domain: twitter.com
+  url: 'https://twitter.com'
+  favicon: 'https://abs.twimg.com/favicons/favicon.ico'
 _type: Comment
 _context: 'http://schema.org'
 
